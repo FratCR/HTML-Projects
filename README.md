@@ -1,2 +1,2 @@
-# HTML-CSS-Projects
-My All HTML and CSS Projects
+# HTML-Projects
+My All HTML Projects
