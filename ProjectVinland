@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords" content="Vinland, Type O Negative, TON, TON Band, Peter Steele, Green flag" />
+    <meta name="description" content="Vinland, Type O Negative referance, Peter Steele Favorite" />
+    <meta name="author" content="Fırat Çakır" />
+    <link rel="shortcut icon" href="Vinland.ico"/>
+    <link rel="stylesheet" type="text/css" href="Vinland.css" />
+    
+    <title>Vinland</title>
+
+    <style>
+        table, tr, th, td {
+            border: 1px solid black;
+            text-align: center;
+            border-collapse: collapse;
+            font-size:20px;
+            color:ghostwhite;
+        }
+
+        body{
+            margin-left:600px;
+        }
+
+        th {
+            background-color: darkblue;
+        }
+
+        td {
+            background-color: blue;
+        }
+
+        a:hover{
+            background-color:deepskyblue;
+            color:aqua;
+        }
+
+    </style>
+
+</head>
+<body style="background-color:black">
+        <table width="700px" height="200px">
+        <caption><b><h3><font color="lightblue">Head Members:</font></h3></b></caption>
+
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Enstrument</th>
+                <th>Height</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Peter Steele</td>
+                <td>Bass Gitar/Lead Vocal</td>
+                <td>2.04</td>
+            </tr>
+            <tr>
+                <td>Josh Silver</td>
+                <td>Keyboard</td>
+                <td>1.90</td>
+            </tr>
+            <tr>
+                <td>Kenny Hickey</td>
+                <td>Elecronic Guitar/Back Vocal</td>
+                <td>1.83</td>
+            </tr>
+            <tr>
+                <td>Johnny Kelly</td>
+                <td>Drum</td>
+                <td>1.85</td>
+            </tr>
+        </tbody>
+</body>
+</html>
